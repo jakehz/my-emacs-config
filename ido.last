@@ -1,0 +1,55 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/jake/website-projs/" . "course/")
+ ("/home/jake/Documents/" . "web_dev/")
+ ("/home/jake/" . "website-projs/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/jake/website-projs/course/"
+ "/home/jake/.emacs.d/"
+ "/home/jake/Documents/web_dev/"
+ "/home/jake/"
+ "/home/jake/c_code/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "rusty.html"
+ "page2.html"
+ "divsandspans.html"
+ "quiz1.html"
+ "firstpage.html"
+ "test3.html"
+ "init.el"
+ "firstPage.html"
+ "webdev"
+ "test4.html"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/jake/.emacs.d/" (23684 6488 716736 429000) "auto-save-list/" "elpa/" "./" "init.el" "../" "init.el~" "snippets/" "ido.last" "ido.last~")
+
+ ("/home/jake/website-projs/course/" (23682 63580 423970 494000) "firstpage.html" "divsandspans.html~" "#test3.html#" "quiz1.html~" "firstpage.html~" "divsandspans.html" "./" "rusty.html" "rusty.html~" "../" "page2.html~" "page2.html" "quiz1.html")
+
+ ("/home/jake/" (23683 6766 734748 132000) "El Baile del Perrito-gAuE3mJdpv0.f248.webm" ".xsession-errors" ".gradle/" ".face.icon" ".ssh/" ".nv/" "py/" "20190129 cisp310-u_MhT8Nc5m0.mkv" ".nvidia-settings-rc" ".local/" ".bashrc" "Desktop/" "Videos/" "test" ".gnupg/" "El Baile del Perrito-gAuE3mJdpv0.f398.mp4" ".pki/" "mozilla.pdf" "cpp_proj/" "20190124 cisp310-USv0SHiNB4s.mp4" "so-you-have-conservative-memes.jpg" "Music/" ".kde/" ".dbus/" ".config/" ".gitconfig" ".cache/" "Templates/" ".npm/" ".java/" ".android/" ".pulse-cookie" ".steam/" ".AndroidStudio3.2/" ".profile" ".emacs.d/" ".adobe/" "Documents/" ".viminfo" ".panicbutton/" "bak" "20190122 cisp310-gPdRTkO0YCk.mkv" "./" "c_code/" "20190131 cisp310-xAHulx-JM2M.mkv" ".Xauthority" ".uml/" "source-code-pro-deb/" ".wine/" "test2" "snap/" "../" ".vimrc" "output.txt" "VirtualBox VMs/" "logs/" ".steampid" "javaprojs/" "Android/" ".bash_history" "CLionProjects/" "Public/" "fonts-source-code-pro_1.017_amd64.changes" ".bash_logout" ".CLion2018.3/" "Downloads/" ".gnome/" ".macromedia/" ".recently-used" "android-studio/" ".python_history" ".IntelliJIdea2018.3/" ".directory" "AndroidStudioProjects/" ".face" ".gtkrc-2.0" "fonts-source-code-pro_1.017_amd64.buildinfo" "Pikmin_2_USA_NGC-STARCUBE/" "fonts-source-code-pro_1.017_all.deb" "Pictures/" "myproject/" ".mozilla/" "IdeaProjects/" ".gconf/" "Steam/" ".sudo_as_admin_successful" "node_modules/" ".steampath" "CEmu/" ".python_history-08918.tmp" "website-projs/")
+
+ ("/home/jake/.emacs.d/snippets/web-mode/" (23682 58473 368774 17000) "html-boil" "./" "../")
+
+ ("/home/jake/website-projs/" (23682 58503 304698 640000) "./" "../" "mysite/" "course/")
+
+ ("/home/jake/.emacs.d/snippets/" (23682 57939 594423 989000) "./" "../")
+
+ ("/home/jake/Documents/web_dev/" (23682 57729 823337 952000) "test.html" "index.html" "firstPage.html" "./" "../" "firstPage.html~")
+
+ ("/home/jake/c_code/" (23682 55660 510259 747000) "mantissa_convert" "a.out" "ftoc.c" ".sample.c.swp" "mantissa_convert.c" "test.c" "#new.c#" "./" "mant" "ftoc" "../" "helloworld.c" "mantissa_convert.o")
+
+ ("/home/jake/Documents/" (23682 6251 218145 305000) "Untitled 1.ods" "My Resume 3.docx" "Renewable energy .odt" "./" "../" "website/" "RentalsTaxCoversheet.ods" "3_A_Continuing_Enrollment_CRC_MESA_Rv_2-8-12_FillableVersion.pdf" "crazy.mp4" "web_dev/" "logisim-designs/" "untitled.mp4" "meme.txt")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
